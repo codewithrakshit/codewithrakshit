@@ -32,5 +32,5 @@
 ## 🔥 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrakshit&layout=compact&theme=radical)
 
-## 📅 GitHub Contributions
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=codewithrakshit&bg_color=333&color=F7B8B8&line=F7B8B8&point=FFF&area=true&area_color=F7B8B8)
+## 📝 GitHub Activity
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=codewithrakshit&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=444444)
