@@ -31,8 +31,8 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=googlecloud&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
-![Rakshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithrakshit&show_icons=true&theme=radical)
-
 ## 🔥 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrakshit&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithrakshit&theme=radical)
+
